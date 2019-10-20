@@ -1,0 +1,13 @@
+{
+    "SchemaVersion": 1,
+    "Name": "AzWebSetting",
+    "ComponentId": "f003622f-50c8-4a51-94cc-bc1c06829ee4",
+    "EntryPoint": "/bin/app",
+    "CmdArgs": [],
+    "Capabilities": {
+        "AllowedTcpServerPorts": [ 8080 ],
+        "NetworkConfig": true,
+        "WifiConfig": true
+    },
+    "ApplicationType": "Default"
+}
